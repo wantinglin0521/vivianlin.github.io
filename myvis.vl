@@ -5,7 +5,7 @@
     "width" : 400,
     "data": {
         "url": "https://vega.github.io/editor/data/movies.json"
-    ｝，
+    },
     "encoding": {
         "x": {"field": "IMDB Rating", "bin": true},
         "y": {"field": "Worldwide Gross", "aggregate": "sum"},
